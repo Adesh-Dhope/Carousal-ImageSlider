@@ -1,2 +1,2 @@
-Project: Carousal
+Project: Carousal,
 Objective : Understanding Reactjs
