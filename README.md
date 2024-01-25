@@ -1,2 +1,2 @@
-my name is adesh dhope,
-Project name is Carousal
+Project: Carousal
+Objective : Understanding Reactjs
